@@ -150,3 +150,22 @@
 }
 
 
+
+
+
+
+
+/* 當前選中的標籤背景色與邊框色 */
+#issuesTabs .nav-link.active {
+    background-color: #6ABD98 !important;
+    border-color: #6ABD98 !important;
+    color: #fff; /* 文字顏色，確保在綠色背景下看得很清楚 */
+}
+
+
+
+
+
+
+
+
